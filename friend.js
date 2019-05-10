@@ -6,4 +6,4 @@ const bestFriend = 'Soleil';
 
 console.log(`${bestFriend} is muh best fwen!`);
 
-let faveInstructor = 'Derick';
+let faveInstructors = ['Derick', 'Celeste'];
